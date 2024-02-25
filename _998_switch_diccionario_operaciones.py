@@ -6,6 +6,7 @@
 ##   \ \_______\ \__\ \__\ \__\ \__\ \__/ /     \ \__\ \__\
 ##    \|_______|\|__|\|__|\|__|\|__|\|__|/       \|__|\|__|
 ##21310195 Meza Morales Salvador Emmanuel
+#No quiero explicar este codigo y me rehuso a hacerlo
 def opciones():
     print('1.-Sumar 2 numeros.')
     print('2.-Restar 2 numeros.')
